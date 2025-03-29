@@ -24,3 +24,22 @@ the order
 Avg Cost for two : Cost for two is approximate spent for creating meal for two.
 Number of images per restaurant : Count of images listed per restaurant on menu page
 Success Rate of payments : ratio of successful transactions and payment initiated
+
+
+What I did : 
+1. I identified the increase or decrease in the number of orders using Session Details sheet
+o Filled all the remaining columns of Session details based on the definition
+mentioned above the column names
+o Identify date of highs and lows in the orders with respect to same day last
+week
+
+2. I Checked if there is change in traffic as compared to same day last week
+o If there is change in traffic, identify the source of traffic change using Channel
+wise traffic sheet
+
+3. I Checked if there is change in Overall Conversion as compared to previous dates
+o I Broke the overall conversion into smaller part in the following metrics.
+§ L2M - List to Menu
+§ M2C - Menu to Cart
+§ C2P - Cart to Payment
+§ P2O - Payment to Orders
